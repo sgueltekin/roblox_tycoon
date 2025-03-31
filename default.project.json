@@ -48,7 +48,10 @@
             512
           ]
         }
-      }
+      },
+	  "Model": {
+		  "$path": "src/models/House.rbxmx"
+	  }
     },
     "Lighting": {
       "$properties": {
